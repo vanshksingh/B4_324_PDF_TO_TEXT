@@ -70,7 +70,7 @@ PresentifyX.py
 
 --/ to add later /-- See also the list of [contributors](https://github.com/yourusername/your-repo-name/contributors) who participated in this project.
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
